@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleMapExample</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="nearby_url_api" />
+</resources>
